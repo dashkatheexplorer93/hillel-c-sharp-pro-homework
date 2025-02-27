@@ -1,0 +1,14 @@
+/Users/dariababkova/RiderProjects/Hillel/Hillel/bin/Debug/net8.0/Hillel
+/Users/dariababkova/RiderProjects/Hillel/Hillel/bin/Debug/net8.0/Hillel.deps.json
+/Users/dariababkova/RiderProjects/Hillel/Hillel/bin/Debug/net8.0/Hillel.runtimeconfig.json
+/Users/dariababkova/RiderProjects/Hillel/Hillel/bin/Debug/net8.0/Hillel.dll
+/Users/dariababkova/RiderProjects/Hillel/Hillel/bin/Debug/net8.0/Hillel.pdb
+/Users/dariababkova/RiderProjects/Hillel/Hillel/obj/Debug/net8.0/Hillel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dariababkova/RiderProjects/Hillel/Hillel/obj/Debug/net8.0/Hillel.AssemblyInfoInputs.cache
+/Users/dariababkova/RiderProjects/Hillel/Hillel/obj/Debug/net8.0/Hillel.AssemblyInfo.cs
+/Users/dariababkova/RiderProjects/Hillel/Hillel/obj/Debug/net8.0/Hillel.csproj.CoreCompileInputs.cache
+/Users/dariababkova/RiderProjects/Hillel/Hillel/obj/Debug/net8.0/Hillel.dll
+/Users/dariababkova/RiderProjects/Hillel/Hillel/obj/Debug/net8.0/refint/Hillel.dll
+/Users/dariababkova/RiderProjects/Hillel/Hillel/obj/Debug/net8.0/Hillel.pdb
+/Users/dariababkova/RiderProjects/Hillel/Hillel/obj/Debug/net8.0/Hillel.genruntimeconfig.cache
+/Users/dariababkova/RiderProjects/Hillel/Hillel/obj/Debug/net8.0/ref/Hillel.dll
