@@ -1,0 +1,15 @@
+/Users/dariababkova/RiderProjects/Hillel/Hw1/bin/Debug/net8.0/Hw1
+/Users/dariababkova/RiderProjects/Hillel/Hw1/bin/Debug/net8.0/Hw1.deps.json
+/Users/dariababkova/RiderProjects/Hillel/Hw1/bin/Debug/net8.0/Hw1.runtimeconfig.json
+/Users/dariababkova/RiderProjects/Hillel/Hw1/bin/Debug/net8.0/Hw1.dll
+/Users/dariababkova/RiderProjects/Hillel/Hw1/bin/Debug/net8.0/Hw1.pdb
+/Users/dariababkova/RiderProjects/Hillel/Hw1/obj/Debug/net8.0/Hw1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dariababkova/RiderProjects/Hillel/Hw1/obj/Debug/net8.0/Hw1.AssemblyInfoInputs.cache
+/Users/dariababkova/RiderProjects/Hillel/Hw1/obj/Debug/net8.0/Hw1.AssemblyInfo.cs
+/Users/dariababkova/RiderProjects/Hillel/Hw1/obj/Debug/net8.0/Hw1.csproj.CoreCompileInputs.cache
+/Users/dariababkova/RiderProjects/Hillel/Hw1/obj/Debug/net8.0/Hw1.sourcelink.json
+/Users/dariababkova/RiderProjects/Hillel/Hw1/obj/Debug/net8.0/Hw1.dll
+/Users/dariababkova/RiderProjects/Hillel/Hw1/obj/Debug/net8.0/refint/Hw1.dll
+/Users/dariababkova/RiderProjects/Hillel/Hw1/obj/Debug/net8.0/Hw1.pdb
+/Users/dariababkova/RiderProjects/Hillel/Hw1/obj/Debug/net8.0/Hw1.genruntimeconfig.cache
+/Users/dariababkova/RiderProjects/Hillel/Hw1/obj/Debug/net8.0/ref/Hw1.dll
