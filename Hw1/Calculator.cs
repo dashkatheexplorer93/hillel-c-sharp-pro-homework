@@ -1,4 +1,4 @@
-namespace Hillel;
+namespace Hw1;
 
 internal static class Calculator
 {

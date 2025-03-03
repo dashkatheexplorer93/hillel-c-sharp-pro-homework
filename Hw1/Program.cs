@@ -1,4 +1,4 @@
-﻿using Hillel;
+﻿using Hw1;
 
 Console.WriteLine("Welcome to simple calculator!");
 
