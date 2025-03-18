@@ -1,0 +1,15 @@
+/Users/dariababkova/RiderProjects/Hillel/Hw6/bin/Debug/net8.0/Hw6
+/Users/dariababkova/RiderProjects/Hillel/Hw6/bin/Debug/net8.0/Hw6.deps.json
+/Users/dariababkova/RiderProjects/Hillel/Hw6/bin/Debug/net8.0/Hw6.runtimeconfig.json
+/Users/dariababkova/RiderProjects/Hillel/Hw6/bin/Debug/net8.0/Hw6.dll
+/Users/dariababkova/RiderProjects/Hillel/Hw6/bin/Debug/net8.0/Hw6.pdb
+/Users/dariababkova/RiderProjects/Hillel/Hw6/obj/Debug/net8.0/Hw6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dariababkova/RiderProjects/Hillel/Hw6/obj/Debug/net8.0/Hw6.AssemblyInfoInputs.cache
+/Users/dariababkova/RiderProjects/Hillel/Hw6/obj/Debug/net8.0/Hw6.AssemblyInfo.cs
+/Users/dariababkova/RiderProjects/Hillel/Hw6/obj/Debug/net8.0/Hw6.csproj.CoreCompileInputs.cache
+/Users/dariababkova/RiderProjects/Hillel/Hw6/obj/Debug/net8.0/Hw6.sourcelink.json
+/Users/dariababkova/RiderProjects/Hillel/Hw6/obj/Debug/net8.0/Hw6.dll
+/Users/dariababkova/RiderProjects/Hillel/Hw6/obj/Debug/net8.0/refint/Hw6.dll
+/Users/dariababkova/RiderProjects/Hillel/Hw6/obj/Debug/net8.0/Hw6.pdb
+/Users/dariababkova/RiderProjects/Hillel/Hw6/obj/Debug/net8.0/Hw6.genruntimeconfig.cache
+/Users/dariababkova/RiderProjects/Hillel/Hw6/obj/Debug/net8.0/ref/Hw6.dll
